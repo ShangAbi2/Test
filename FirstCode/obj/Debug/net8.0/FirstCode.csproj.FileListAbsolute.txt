@@ -1,0 +1,14 @@
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.AssemblyInfoInputs.cache
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.AssemblyInfo.cs
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.csproj.CoreCompileInputs.cache
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\bin\Debug\net8.0\FirstCode.exe
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\bin\Debug\net8.0\FirstCode.deps.json
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\bin\Debug\net8.0\FirstCode.runtimeconfig.json
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\bin\Debug\net8.0\FirstCode.dll
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\bin\Debug\net8.0\FirstCode.pdb
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.dll
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\obj\Debug\net8.0\refint\FirstCode.dll
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.pdb
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\obj\Debug\net8.0\FirstCode.genruntimeconfig.cache
+C:\Users\Sigur\RiderProjects\FirstCode\FirstCode\obj\Debug\net8.0\ref\FirstCode.dll
